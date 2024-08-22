@@ -9,6 +9,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens:{
+        '4k': '2560px', // Custom breakpoint for 4K screens 
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
