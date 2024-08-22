@@ -35,7 +35,7 @@ const Page = () => {
             for positive change and sustainable growth. By leveraging innovative
             solutions and staying ahead of industry trends, we aim to drive
             progress and efficiency across various sectors.
-          </li>
+          </li> 
           <li>
             At Parallaxis, we believe that technology has the power to transform
             lives and businesses. Our goal is to develop cutting-edge
